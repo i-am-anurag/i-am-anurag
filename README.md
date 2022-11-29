@@ -1,7 +1,6 @@
 Hello World, I'm Anurag Pandey👋 
 - 👀 I’m interested in to learning new things
-- 🔭 I’m currently working through a course learn code online
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on open Source
 
 
